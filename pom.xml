@@ -549,8 +549,7 @@
                     <changeLogFile>src/main/resources/config/liquibase/master.xml</changeLogFile>
                     <diffChangeLogFile>src/main/resources/config/liquibase/changelog/${maven.build.timestamp}_changelog.xml</diffChangeLogFile>
                     <driver>org.postgresql.Driver</driver>
-                    <url>postgres://idezpcfetlxuge:9c3f53650124b1a66c99534e4fc7721b6f40a9c6b6cad1417fb942cd4093ba89@ec2-54-247-101-205.eu-west-1.compute.amazonaws.com:5432/dagqhfselc4cb0
-</url>
+                    <url>postgres://idezpcfetlxuge:9c3f53650124b1a66c99534e4fc7721b6f40a9c6b6cad1417fb942cd4093ba89@ec2-54-247-101-205.eu-west-1.compute.amazonaws.com:5432/dagqhfselc4cb0</url>
                     <defaultSchemaName></defaultSchemaName>
                     <username>idezpcfetlxuge</username>
                     <password>9c3f53650124b1a66c99534e4fc7721b6f40a9c6b6cad1417fb942cd4093ba89</password>
