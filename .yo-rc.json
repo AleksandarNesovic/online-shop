@@ -28,6 +28,6 @@
     "clientPackageManager": "npm",
     "skipClient": true,
     "skipUserManagement": true,
-    "herokuAppName": calm-headland-43745
+    "herokuAppName": null
   }
 }
