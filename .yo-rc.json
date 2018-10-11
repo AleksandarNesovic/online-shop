@@ -28,6 +28,6 @@
     "clientPackageManager": "npm",
     "skipClient": true,
     "skipUserManagement": true,
-    "herokuAppName": "fast-caverns-18038"
+    "herokuAppName": calm-headland-43745
   }
 }
